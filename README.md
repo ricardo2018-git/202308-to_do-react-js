@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Access the system
+Test the system by clicking [here](https://ricardo2018-git.github.io/to_do/)
+
 ## Available Scripts
 
 In the project directory, you can run:
